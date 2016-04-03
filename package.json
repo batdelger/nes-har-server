@@ -1,0 +1,24 @@
+{
+  "name": "nes-har-server",
+  "version": "1.0.0",
+  "description": "Nes har server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batdelger/nes-har-server.git"
+  },
+  "keywords": [
+    "har",
+    "nes",
+    "httpserver"
+  ],
+  "author": "Batdelger (David)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batdelger/nes-har-server/issues"
+  },
+  "homepage": "https://github.com/batdelger/nes-har-server#readme"
+}
